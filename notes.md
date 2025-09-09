@@ -19,10 +19,8 @@
 - 00:02:59 -- Python Developers Survey 2023 Results
 - 00:03:46 -- How Pre-Commit Works
 - 00:10:00 -- Build a Blog Using Django, GraphQL, and Vue
-- 00:13:38 -- Sponsor: InfluxData
 - 00:14:23 -- 10 Python Programming Optimization Techniques
 - 00:22:45 -- Python's Preprocessor
-- 00:26:42 -- Video Course Spotlight
 - 00:28:16 -- You don't have to guess to estimate
 - 00:44:18 -- LTK is a little toolkit for writing UIs in PyScript
 - 00:49:06 -- django-admin-action-forms: Forms for Django Admin
@@ -33,4 +31,14 @@
 
 - How to create precommit hooks
   - process before during commit step
-- python package `pre.commits`  
+- python package `pre.commits`
+- runs locally (purer version of ci/cd)
+- runs inside git
+- pre-commit troubleshooting guide ???link
+- tutorial "Using Django" building a django app with
+  - graphen/graphql backend and
+  - vue.js frontend (compettitor to Angular and React)
+  - addon apollo
+- 10 programming Python optimization techniques, for example
+  - packing integers 
+- LTK for Web-UI 
