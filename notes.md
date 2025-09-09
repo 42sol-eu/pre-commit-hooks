@@ -40,5 +40,11 @@
   - vue.js frontend (compettitor to Angular and React)
   - addon apollo
 - 10 programming Python optimization techniques, for example
-  - packing integers 
-- LTK for Web-UI 
+  - packing integers
+  - typed arrays
+  - mmap usage
+ - Python preprocessor
+ - Discussion: Estimation
+ - [PySheets](https://pysheets.app)
+ - LTK for Web-UI
+  - https://pyscript.github.io/ltk/?tab=14 
